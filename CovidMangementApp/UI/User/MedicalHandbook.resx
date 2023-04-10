@@ -1,0 +1,74 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Đau vai gáy, đau lứng, đau quanh đầu gối là di chứng thường gặp ở những bệnh nhân viêm phổi do cúm, COVID, hay bất kì nguyên nhân gây viêm phổi do vi khuẩn hay vius nào khác. Biến thể Omicron có tỉ lệ đau thấp hơn cả trong số cả nguyên nhân. Cơ chế đau có thể tăng do tăng tiết quá mức các chất trung gian hóa học thuộc nhóm Pyrogens và Prostaglandin E2, nhưng đau kéo dài phần lớn do tình trạng tổn thương tại phổi.</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Tây y chủ yếu dùng thuốc giảm đau, nhưng ít hiệu quả, đau có thể kéo dài 6 - 9 tháng. Tập phục hồi chức năng, massage, xóa bóp bấm huyệt, châm cứu là những biện pháp có thể khắc phục được tình trạng đau. Các bài tập thở sâu và thiền, gồm có yoga, khí công, thở dưỡng sinh đông y cũng giúp cải thiện tình trạng này.</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Để phòng tránh, trong quá trình bệnh người bệnh không nên lạm dụng thuốc điều trị cúm hay COVID-19, luôn giữ ấm lưng và tay chân, ban đêm ngủ vã mồ hôi ở lưng phải lau khô để bảo vệ phổi.
+
+Trích Sức khỏe và Đời sống</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Bất kể tình trạng tiêm chủng như thế nào, nếu một người cảm thấy bị ốm hoặc có kết quả dương tính với virus SARS-CoV-2 (ngay cả khi không có triệu chứng), họ vẫn nên tự cách ly tại nhà, đeo khẩu trang, giữ khoảng cách với các thành viên trong gia đình.</value>
+  </data>
+</root>

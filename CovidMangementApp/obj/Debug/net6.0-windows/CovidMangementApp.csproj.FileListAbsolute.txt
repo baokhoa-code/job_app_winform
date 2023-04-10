@@ -1,0 +1,138 @@
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\CovidMangementApp.exe
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\CovidMangementApp.deps.json
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\CovidMangementApp.runtimeconfig.json
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\CovidMangementApp.dll
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\CovidMangementApp.pdb
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\RJCodeAdvance.RJControls.dll
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.csproj.AssemblyReference.cache
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.g.resources
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.Properties.Resources.resources
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Form1.resources
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Login.resources
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.csproj.GenerateResource.cache
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.AssemblyInfoInputs.cache
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.AssemblyInfo.cs
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.csproj.CoreCompileInputs.cache
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.csproj.CopyComplete
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.dll
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\refint\CovidMangementApp.dll
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.pdb
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.genruntimeconfig.cache
+C:\Users\khoa1\OneDrive\Máy tính\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\ref\CovidMangementApp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\CovidMangementApp.exe
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\CovidMangementApp.deps.json
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\CovidMangementApp.runtimeconfig.json
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\CovidMangementApp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\CovidMangementApp.pdb
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\RJCodeAdvance.RJControls.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.csproj.AssemblyReference.cache
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.g.resources
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.Properties.Resources.resources
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Login.resources
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Regist.resources
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.csproj.GenerateResource.cache
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.AssemblyInfoInputs.cache
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.AssemblyInfo.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.csproj.CoreCompileInputs.cache
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.csproj.CopyComplete
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\refint\CovidMangementApp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.pdb
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.genruntimeconfig.cache
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\ref\CovidMangementApp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Admin.AdminHomePage.resources
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Forgot.resources
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Notification.resources
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Warning.resources
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Admin.AdminAccountInformation.resources
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Admin.AdminChangeAnswer.resources
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Admin.AdminChangePassword.resources
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Admin.AdminManagment.resources
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Admin.StaffManagement.resources
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Admin.VaccinationFacilityManagement.resources
+C:\Users\khoa1\OneDrive - osakaka\Desktop\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Admin.VaccineManagement.resources
+E:\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\CovidMangementApp.exe
+E:\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\CovidMangementApp.deps.json
+E:\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\CovidMangementApp.runtimeconfig.json
+E:\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\CovidMangementApp.dll
+E:\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\CovidMangementApp.pdb
+E:\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\MaterialSkin.dll
+E:\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\RJCodeAdvance.RJControls.dll
+E:\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CovidMangementApp\CovidMangementApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.csproj.AssemblyReference.cache
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.g.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.Properties.Resources.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Admin.AdminAccountInformation.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Admin.AdminChangeAnswer.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Admin.AdminChangePassword.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Admin.AdminHomePage.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Admin.AdminManagment.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Admin.StaffManagment.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Admin.VaccinationFacilityManagement.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Admin.VaccineManagement.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Custom.AnamnesisItem.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Custom.AnamnesisItem2.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Custom.DeclarationItem.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Custom.ReactionAfterVaccinationItem.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Custom.SigninVaccineItem.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Custom.VaccineCertItem.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Forgot.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Form1.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.LoadingForm.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Login.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Notification.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Regist.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Staff.InputVaccination.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Staff.PatientAnamnesis.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Staff.ResponseSigninVaccine.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Staff.StaffAccountInformation.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Staff.StaffChangeAnswer.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Staff.StaffChangePassword.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Staff.StaffHomePage.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.User.Anamnesis.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.User.MedicalDeclaration.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.User.MedicalHandbook.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.User.ReactionAfterVaccination.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.User.SigninVaccine.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.User.UserAccountInformation.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.User.UserChangeAnswer.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.User.UserChangePassword.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.User.UserHomePage.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.User.VaccinationCertificate.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Warning.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.csproj.GenerateResource.cache
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.AssemblyInfoInputs.cache
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.AssemblyInfo.cs
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.csproj.CoreCompileInputs.cache
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.csproj.CopyComplete
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.dll
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\refint\CovidMangementApp.dll
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.pdb
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.genruntimeconfig.cache
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\ref\CovidMangementApp.dll
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Custom.ResponseReactionAfterVaccinationItem.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Custom.ResponseSigninVaccineItem.resources
+E:\CovidMangementApp\CovidMangementApp\obj\Debug\net6.0-windows\CovidMangementApp.UI.Staff.ResponseReactionAfterVaccination.resources

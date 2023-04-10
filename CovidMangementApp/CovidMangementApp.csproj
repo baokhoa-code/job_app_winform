@@ -1,0 +1,131 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\account.png" />
+    <None Remove="Resources\anamnesis.png" />
+    <None Remove="Resources\Background.png" />
+    <None Remove="Resources\baseline_bluetooth_black_24dp.png" />
+    <None Remove="Resources\baseline_build_black_24dp.png" />
+    <None Remove="Resources\baseline_favorite_border_black_24dp.png" />
+    <None Remove="Resources\baseline_fingerprint_black_24dp.png" />
+    <None Remove="Resources\baseline_thumb_up_black_24dp.png" />
+    <None Remove="Resources\close.png" />
+    <None Remove="Resources\left-arrow.png" />
+    <None Remove="Resources\logo.png" />
+    <None Remove="Resources\logout.png" />
+    <None Remove="Resources\maximize.png" />
+    <None Remove="Resources\medical_declaration.png" />
+    <None Remove="Resources\medical_handbook.png" />
+    <None Remove="Resources\minimize.png" />
+    <None Remove="Resources\minus.png" />
+    <None Remove="Resources\notification.png" />
+    <None Remove="Resources\plus.png" />
+    <None Remove="Resources\reaction_after_vaccination.png" />
+    <None Remove="Resources\Roboto-Black.ttf" />
+    <None Remove="Resources\Roboto-Bold.ttf" />
+    <None Remove="Resources\Roboto-Light.ttf" />
+    <None Remove="Resources\Roboto-Medium.ttf" />
+    <None Remove="Resources\Roboto-Regular.ttf" />
+    <None Remove="Resources\Roboto-Thin.ttf" />
+    <None Remove="Resources\round_add_black_24dp.png" />
+    <None Remove="Resources\round_assessment_white_24dp.png" />
+    <None Remove="Resources\round_backup_white_24dp.png" />
+    <None Remove="Resources\round_bluetooth_white_24dp.png" />
+    <None Remove="Resources\round_bookmark_white_24dp.png" />
+    <None Remove="Resources\round_build_white_24dp.png" />
+    <None Remove="Resources\round_gps_fixed_white_24dp.png" />
+    <None Remove="Resources\round_http_white_24dp.png" />
+    <None Remove="Resources\round_phone_black_24dp.png" />
+    <None Remove="Resources\round_report_problem_white_24dp.png" />
+    <None Remove="Resources\round_swap_vert_white_24dp.png" />
+    <None Remove="Resources\signin_vaccine.png" />
+    <None Remove="Resources\vaccination_certificate.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\close.png" />
+    <Resource Include="Resources\left-arrow.png" />
+    <Resource Include="Resources\maximize.png" />
+    <EmbeddedResource Include="Resources\Roboto-Black.ttf" />
+    <EmbeddedResource Include="Resources\Roboto-Bold.ttf" />
+    <EmbeddedResource Include="Resources\Roboto-Regular.ttf" />
+    <EmbeddedResource Include="Resources\Roboto-Thin.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialSkin.2" Version="2.3.1" />
+    <PackageReference Include="RJCodeAdvance.RJControls" Version="1.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Roboto-Light.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Roboto-Medium.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\minimize.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\baseline_build_black_24dp.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\account.png" />
+    <Resource Include="Resources\anamnesis.png" />
+    <Resource Include="Resources\Background.png" />
+    <Resource Include="Resources\baseline_bluetooth_black_24dp.png" />
+    <Resource Include="Resources\baseline_favorite_border_black_24dp.png" />
+    <Resource Include="Resources\baseline_fingerprint_black_24dp.png" />
+    <Resource Include="Resources\baseline_thumb_up_black_24dp.png" />
+    <Resource Include="Resources\logo.png" />
+    <Resource Include="Resources\logout.png" />
+    <Resource Include="Resources\medical_declaration.png" />
+    <Resource Include="Resources\medical_handbook.png" />
+    <Resource Include="Resources\minus.png" />
+    <Resource Include="Resources\notification.png" />
+    <Resource Include="Resources\plus.png" />
+    <Resource Include="Resources\reaction_after_vaccination.png" />
+    <Resource Include="Resources\round_add_black_24dp.png" />
+    <Resource Include="Resources\round_assessment_white_24dp.png" />
+    <Resource Include="Resources\round_backup_white_24dp.png" />
+    <Resource Include="Resources\round_bluetooth_white_24dp.png" />
+    <Resource Include="Resources\round_bookmark_white_24dp.png" />
+    <Resource Include="Resources\round_build_white_24dp.png" />
+    <Resource Include="Resources\round_gps_fixed_white_24dp.png" />
+    <Resource Include="Resources\round_http_white_24dp.png" />
+    <Resource Include="Resources\round_phone_black_24dp.png" />
+    <Resource Include="Resources\round_report_problem_white_24dp.png" />
+    <Resource Include="Resources\round_swap_vert_white_24dp.png" />
+    <Resource Include="Resources\signin_vaccine.png" />
+    <Resource Include="Resources\vaccination_certificate.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

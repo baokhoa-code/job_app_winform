@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="UI\Admin\AdminAccountInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Admin\AdminChangeAnswer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Admin\AdminChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Admin\AdminHomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Admin\AdminManagment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Admin\StaffManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Admin\VaccinationFacilityManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Admin\VaccineManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Custom\AnamnesisItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Custom\AnamnesisItem2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Custom\DeclarationItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Custom\ReactionAfterVaccinationItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Custom\ResponseReactionAfterVaccinationItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Custom\ResponseSigninVaccineItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Custom\RoundedPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\Custom\SigninVaccineItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Custom\VaccineCertItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Forgot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\LoadingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Notification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Regist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Staff\InputVaccination.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Staff\PatientAnamnesis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Staff\ResponseReactionAfterVaccination.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Staff\ResponseSigninVaccine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Staff\StaffAccountInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Staff\StaffChangeAnswer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Staff\StaffChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Staff\StaffHomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\User\Anamnesis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\User\MedicalDeclaration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\User\MedicalHandbook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\User\ReactionAfterVaccination.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\User\SigninVaccine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\User\UserAccountInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\User\UserChangeAnswer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\User\UserChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\User\UserHomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\User\VaccinationCertificate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Warning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
